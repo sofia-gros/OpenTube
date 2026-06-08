@@ -2,9 +2,9 @@
 
 OpenTubeは、カスタマイズされたYouTube視聴体験を提供するように設計されたWebアプリケーションです。PreactとViteで構築され、動画ストリーミングとコンテンツ取得には`youtubei.js`と`video.js`を活用しています。パフォーマンスと、クリーンでカスタマイズ可能なユーザーインターフェースに重点を置いています。
 
-![Image 1](assets/image1.png)
-![Image 2](assets/image2.png)
-![Image 3](assets/image3.png)
+![Image 1](doc/img/image1.png)
+![Image 2](doc/img/image2.png)
+![Image 3](doc/img/image3.png)
 
 ## このプロジェクトで使用されているライブラリ
 
