@@ -39,28 +39,28 @@ OpenTubeは、カスタマイズされたYouTube視聴体験を提供するよ�
 
 ```bash
 
-npm install
+bun install
 ```
 
 2. **開発サーバーの起動:**
 
 ```bash
 
-npm run dev
+bun run dev
 ```
 
 3. **本番環境向けビルド:**
 
 ```bash
 
-npm run build
+bun run build
 ```
 
 4. **バックエンド/ユーティリティサーバーの起動:**
 
 ```bash
 
-npm run server
+bun run server
 ```
 
 ## ロードマップ
@@ -74,6 +74,7 @@ npm run server
 - [x] オフラインダウンロードのサポート
 - [x] 後で見る機能の管理
 - [x] 広告の非表示
+- [x] アカウント無しサポート
 
 ### 計画中
 - [ ] チャンネルページ

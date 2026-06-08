@@ -38,28 +38,28 @@ OpenTube is a web application designed to provide a customized YouTube viewing e
 
 ```bash
 
-npm install
+bun install
 ```
 
 2. **Starting the Development Server:**
 
 ```bash
 
-npm run dev
+bun run dev
 ```
 
 3. **Building for Production:**
 
 ```bash
 
-npm run build
+bun run build
 ```
 
 4. **Starting the Backend/Utility Server:**
 
 ```bash
 
-npm run server
+bun run server
 ```
 
 ## Roadmap
@@ -73,6 +73,7 @@ npm run server
 - [x] Offline Download Support
 - [x] Watch Later Feature Management
 - [x] Ad Removal
+- [x] Accountless Support
 
 ### Planned
 - [ ] Channel Page
