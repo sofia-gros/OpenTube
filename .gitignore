@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Project
+dist/
+doc/ai.md
+doc/youtubejs.md
